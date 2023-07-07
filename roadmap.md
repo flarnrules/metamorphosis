@@ -41,6 +41,8 @@ We can have the following series at a minimum:
 8. human
 9. volcano
 10. land
+11. supernova
+12. 
 
 This could allow for a lot of variety and a fairly sizeable collection.
 
